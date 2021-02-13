@@ -1,0 +1,17 @@
+.wrapper {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.list-group {
+    min-width: 600px;
+    margin-top: 50px;
+    padding: 30px;
+    background: grey;
+    overflow-x: scroll;
+    height: 500px;
+}
+.list-group-item {
+    margin: 20px;
+}
